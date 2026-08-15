@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="README.en.md">🇺🇸 English</a> | 🇧🇷 Português
+</p>
+
 <h1 align="center">Olá, eu sou o Arthur Gimenes! 👋</h1>
 
 <p align="center">
@@ -5,10 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ---
@@ -35,12 +36,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gimenes7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimenes7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gimenes7&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=gimenes7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gimenes7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -49,6 +46,6 @@
 
 <p align="left">
   <a href="mailto:arthurgimenescosta222@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
