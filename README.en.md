@@ -19,7 +19,7 @@
 - 🎓 Middle school student, focused on programming
 - 💻 Learning to become a full stack developer
 - 🛠️ Currently working with **HTML, CSS, and JavaScript**
-- ⚛️ Studying **React** and **TypeScript** right now
+- 👨‍🎓 Studying **TypeScript** right now
 - 🌱 Learning by doing, with real projects from the start
 
 ---
