@@ -37,6 +37,7 @@
 | # | Projeto | Descrição | Tecnologias |
 |---|---|---|---|
 | 1º | 💚 [Fluminense FC](https://github.com/gimenes7/ProjetoFinalFlu) | Site em homenagem ao Fluminense, com história, imagens, vídeos, quiz e formulário. **Meu primeiro projeto.** | HTML, CSS |
+| 2º | 📘 [Projeto Final de JavaScript Básico](https://github.com/gimenes7/ProjetoFinalJS-Basico) | Exercícios práticos de lógica de programação, operações matemáticas, cálculos geométricos e fundamentos de JavaScript. | HTML, CSS, JavaScript |
 | 3º | 🏎️ [Scuderia Ferrari](https://github.com/gimenes7/ProjetoFinalDeHTML-CSSAV) | Site responsivo sobre a Ferrari na Fórmula 1, com menu hambúrguer e quiz em JavaScript. | HTML, CSS, JavaScript, Bootstrap |
 | 4º | 💰 [Finanças Pessoais](https://github.com/gimenes7/projeto-final-de-JavaScript-intermediario) | Calculadora financeira em tempo real com cadastro de pessoas, feita com classes. | HTML, CSS, JavaScript |
 | 5º | 🎓 [Cadastro de Alunos](https://github.com/gimenes7/ProjetoFinalJSAV) | Sistema de alunos, cursos e matrículas, com validações, máscaras e dados salvos no `localStorage`. | HTML, CSS, JavaScript, jQuery |
