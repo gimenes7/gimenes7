@@ -57,8 +57,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=gimenes7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gimenes7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="165"
+    src="./profile/stats.svg"
+    alt="GitHub statistics"
+  />
+  <img
+    height="165"
+    src="./profile/top-langs.svg"
+    alt="Most used programming languages"
+  />
 </p>
 
 ---
