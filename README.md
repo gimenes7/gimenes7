@@ -19,7 +19,7 @@
 - 🎓 Estudante do ensino fundamental 2, focado em programação
 - 💻 Aprendendo a ser dev full stack
 - 🛠️ Trabalho hoje com **HTML, CSS e JavaScript**
-- ⚛️ Estudando **React** e **TypeScript** atualmente
+- 👨‍🎓 Estudando **TypeScript** atualmente
 - 🌱 Aprendendo na prática, com projetos reais desde o início
 
 ---
