@@ -50,7 +50,7 @@
 
 - 🐾 [Jogo do Bicho](https://github.com/gimenes7/jogoDoBicho): simulação feita no meu tempo livre, só por diversão e sem dinheiro real. _(HTML, CSS, JavaScript)_
 - 🔴 [Pokédex](https://github.com/gimenes7/ProjetosGimenes): lista de Pokémon com busca e detalhes, consumindo a PokéAPI. _(HTML, CSS, JavaScript)_
-- 📝 [Atividades de Programação](https://github.com/gimenes7/AtividadesProgamacao): meus exercícios de TypeScript. _(TypeScript)_
+- 📝 [Atividades de Programação](https://github.com/gimenes7/AtividadesProgamacao): meus exercícios de progamação. _(TypeScript)_
 
 ---
 
